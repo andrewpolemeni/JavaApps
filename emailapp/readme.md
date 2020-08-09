@@ -1,4 +1,4 @@
-# Create an Email Application that Generates new email accounts for new hires.
+# Email Application that Generates new email accounts for new hires.
 
 <ul>
   <li>Generate an email with the following syntax: firstname.lastname@department.company.com</li>
